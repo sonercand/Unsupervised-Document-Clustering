@@ -66,3 +66,5 @@ data/
 venv/
 venv/*
 dataCollection/venv/
+dataCollection/.idea/
+dataCollection/.ipynb_checkpoints

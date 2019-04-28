@@ -63,3 +63,6 @@ target/
 .ipynb_checkpoints/*.ipynb
 *.ipynb
 data/
+venv/
+venv/*
+dataCollection/venv/

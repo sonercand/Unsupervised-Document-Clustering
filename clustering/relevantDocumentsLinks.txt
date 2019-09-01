@@ -1,0 +1,8 @@
+https://learning.oreilly.com/videos/deep-learning-for/9780134851921/9780134851921-DLNP_01_03_01
+https://ramhiser.com/post/2018-05-14-autoencoders-with-keras/
+https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/
+
+http://proceedings.mlr.press/v48/xieb16.pdf
+http://cripac.ia.ac.cn/people/lwang/M-MCG/research/CFS-CIAPR13/paper.pdf
+https://www.ijcai.org/proceedings/2017/0243.pdf
+

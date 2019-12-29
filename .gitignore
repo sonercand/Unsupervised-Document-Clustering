@@ -61,7 +61,7 @@ target/
 #Ipython Notebook
 .ipynb_checkpoints
 .ipynb_checkpoints/*.ipynb
-*.ipynb
+
 data/
 venv/
 venv/*

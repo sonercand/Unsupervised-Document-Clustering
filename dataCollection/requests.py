@@ -6,7 +6,7 @@ import pyarrow.parquet as pq
 import time
 import datetime
 
-api_csv = pd.read_csv('C:\\Users\\sismc\\Desktop\\projects\\misc\\api.csv')
+api_csv = pd.read_csv('..\\..\\misc\\api.csv')
 global API_ID
 API_ID = api_csv['id'].values[0]
 global API_SECRET
